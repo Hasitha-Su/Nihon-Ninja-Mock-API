@@ -1,0 +1,137 @@
+{
+  "id": 1,
+  "questions":[
+    {
+      "Id": 1,
+      "SinhalaSentence": "I am a student.",
+      "AnswerOrder": [1, 2, 3, 4],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "私"},
+        {"order": 2, "word": "は"},
+        {"order": 3, "word": "学生"},
+        {"order": 4, "word": "です"},
+        {"order": 5, "word": "先生"},  // Misleading word
+        {"order": 6, "word": "犬"}   // Misleading word
+      ]
+    },
+    {
+      "Id": 2,
+      "SinhalaSentence": "This is a book.",
+      "AnswerOrder": [1, 2, 3, 4],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "これ"},
+        {"order": 2, "word": "は"},
+        {"order": 3, "word": "本"},
+        {"order": 4, "word": "です"},
+        {"order": 5, "word": "ペン"},  // Misleading word
+        {"order": 6, "word": "猫"}   // Misleading word
+      ]
+    },
+    {
+      "Id": 3,
+      "SinhalaSentence": "She is my friend.",
+      "AnswerOrder": [1, 2, 3, 4, 5],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "彼女"},
+        {"order": 2, "word": "は"},
+        {"order": 3, "word": "私"},
+        {"order": 4, "word": "の"},
+        {"order": 5, "word": "友達"},
+        {"order": 6, "word": "敵"},  // Misleading word
+        {"order": 7, "word": "母"}   // Misleading word
+      ]
+    },
+    {
+      "Id": 4,
+      "SinhalaSentence": "The cat is cute.",
+      "AnswerOrder": [1, 2, 3, 4],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "猫"},
+        {"order": 2, "word": "は"},
+        {"order": 3, "word": "かわいい"},
+        {"order": 4, "word": "です"},
+        {"order": 5, "word": "怖い"},  // Misleading word
+        {"order": 6, "word": "犬"}   // Misleading word
+      ]
+    },
+    {
+      "Id": 5,
+      "SinhalaSentence": "I love coffee.",
+      "AnswerOrder": [1, 2, 3, 4],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "私"},
+        {"order": 2, "word": "は"},
+        {"order": 3, "word": "コーヒー"},
+        {"order": 4, "word": "が好き"},
+        {"order": 5, "word": "嫌い"}, // Misleading word
+        {"order": 6, "word": "お茶"} // Misleading word
+      ]
+    },
+    {
+      "Id": 6,
+      "SinhalaSentence": "Today is Sunday.",
+      "AnswerOrder": [1, 2, 3, 4],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "今日"},
+        {"order": 2, "word": "は"},
+        {"order": 3, "word": "日曜日"},
+        {"order": 4, "word": "です"},
+        {"order": 5, "word": "月曜日"}, // Misleading word
+        {"order": 6, "word": "火曜日"} // Misleading word
+      ]
+    },
+    {
+      "Id": 7,
+      "SinhalaSentence": "The car is fast.",
+      "AnswerOrder": [1, 2, 3, 4],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "車"},
+        {"order": 2, "word": "は"},
+        {"order": 3, "word": "速い"},
+        {"order": 4, "word": "です"},
+        {"order": 5, "word": "遅い"}, // Misleading word
+        {"order": 6, "word": "バス"} // Misleading word
+      ]
+    },
+    {
+      "Id": 8,
+      "SinhalaSentence": "The sky is blue.",
+      "AnswerOrder": [1, 2, 3, 4],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "空"},
+        {"order": 2, "word": "は"},
+        {"order": 3, "word": "青い"},
+        {"order": 4, "word": "です"},
+        {"order": 5, "word": "赤い"}, // Misleading word
+        {"order": 6, "word": "雲"} // Misleading word
+      ]
+    },
+    {
+      "Id": 9,
+      "SinhalaSentence": "My phone is new.",
+      "AnswerOrder": [1, 2, 3, 4, 5],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "私"},
+        {"order": 2, "word": "の"},
+        {"order": 3, "word": "携帯"},
+        {"order": 4, "word": "は"},
+        {"order": 5, "word": "新しい"},
+        {"order": 6, "word": "古い"}, // Misleading word
+        {"order": 7, "word": "壊れた"} // Misleading word
+      ]
+    },
+    {
+      "Id": 10,
+      "SinhalaSentence": "He is tall.",
+      "AnswerOrder": [1, 2, 3, 4],
+      "JapaneseQuestion": [
+        {"order": 1, "word": "彼"},
+        {"order": 2, "word": "は"},
+        {"order": 3, "word": "背が高い"},
+        {"order": 4, "word": "です"},
+        {"order": 5, "word": "背が低い"}, // Misleading word
+        {"order": 6, "word": "太っている"} // Misleading word
+      ]
+    }
+  ]
+}
