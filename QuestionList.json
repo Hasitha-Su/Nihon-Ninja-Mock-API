@@ -1,7 +1,7 @@
 {
 	"id": 1,
 	"questions": [{
-			"Id": 1,
+			"id": 1,
 			"SinhalaSentence": "I am a student.",
 			"AnswerOrder": [1, 2, 3, 4],
 			"JapaneseQuestion": [{
@@ -31,7 +31,7 @@
 			]
 		},
 		{
-			"Id": 2,
+			"id": 2,
 			"SinhalaSentence": "This is a book.",
 			"AnswerOrder": [1, 2, 3, 4],
 			"JapaneseQuestion": [{
