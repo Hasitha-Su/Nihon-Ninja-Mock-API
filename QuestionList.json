@@ -2,9 +2,9 @@
 	"id": 1,
 	"questions": [{
 			"id": 1,
-			"SinhalaSentence": "I am a student.",
-			"AnswerOrder": [1, 2, 3, 4],
-			"JapaneseQuestion": [{
+			"sinSentence": "I am a student.",
+			"answerOrder": [1, 2, 3, 4],
+			"japQuestion": [{
 					"order": 1,
 					"word": "私"
 				},
@@ -32,9 +32,9 @@
 		},
 		{
 			"id": 2,
-			"SinhalaSentence": "This is a book.",
-			"AnswerOrder": [1, 2, 3, 4],
-			"JapaneseQuestion": [{
+			"sinSentence": "This is a book.",
+			"answerOrder": [1, 2, 3, 4],
+			"japQuestion": [{
 					"order": 1,
 					"word": "これ"
 				},
