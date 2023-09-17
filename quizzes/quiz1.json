@@ -5,27 +5,27 @@
 		{
 			"questionId": 1,
 			"sentence": "I am a student.",
-			"answerOrder": [1,2,3,4],
+			"answerOrder": [0,1,2,3],
 			"answers": [
-				{"order": 1, "word": "私"},
-				{"order": 2, "word": "は"},
-				{"order": 3, "word": "学生"},
-				{"order": 4, "word": "です"},
-				{"order": 5, "word": "先生"},
-				{"order": 6, "word": "犬"}
+				{"order": 0, "word": "私"},
+				{"order": 1, "word": "は"},
+				{"order": 2, "word": "学生"},
+				{"order": 3, "word": "です"},
+				{"order": 4, "word": "先生"},
+				{"order": 5, "word": "犬"}
 			]
 		},
 		{
 			"questionId": 2,
 			"sentence": "This is a book.",
-			"answerOrder": [1,2,3,4],
+			"answerOrder": [0,1,2,3],
 			"answers": [
-				{"order": 1, "word": "これ"},
-				{"order": 2, "word": "は"},
-				{"order": 3, "word": "本"},
-				{"order": 4, "word": "です"},
-				{"order": 5, "word": "ペン"},
-				{"order": 6, "word": "猫"}
+				{"order": 0, "word": "これ"},
+				{"order": 1, "word": "は"},
+				{"order": 2, "word": "本"},
+				{"order": 3, "word": "です"},
+				{"order": 4, "word": "ペン"},
+				{"order": 5, "word": "猫"}
 			]
 		}
 	]
