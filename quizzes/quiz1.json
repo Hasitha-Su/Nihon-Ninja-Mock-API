@@ -1,6 +1,7 @@
 {
 	"quizId": 1,
 	"quizName": "Language Quiz",
+	"totalQuestions":2,
 	"questions": [
 		{
 			"questionId": 1,
